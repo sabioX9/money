@@ -1,3 +1,5 @@
+#its a random program :)
+
 import random
 s = []
 for x in range(7):
